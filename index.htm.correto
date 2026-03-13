@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <title>
+      Brasibras - Lançamento BRV-1400/VAE
+    </title>
+    <style>
+      body{ margin:0; padding:0; background:#eef2f6; font-family:Arial, Helvetica, sans-serif; } .wrapper{ width:100%; background:#eef2f6; padding:30px 10px; } .container{ max-width:680px; background:#ffffff; border-radius:18px; overflow:hidden; margin:auto; } .text{ color:#4f5f73; font-size:16px; line-height:1.6; } .box{ background:#f6f9fc; border:1px solid #dfe8f2; border-radius:14px; padding:22px; margin-bottom:12px; } .cta{ background:linear-gradient(135deg,#0a1f38 0%,#123a6b 100%); border-radius:16px; padding:28px; } .btn{ background:#ffffff; color:#0a2c57; text-decoration:none; font-weight:bold; padding:14px 24px; display:inline-block; border-radius:10px; font-size:15px; }
+    </style>
+    <!--[if mso]><xml>
+    <w:WordDocument xmlns:w="urn:schemas-microsoft-com:office:word">
+      <w:DontUseAdvancedTypographyReadingMail/>
+    </w:WordDocument>
+    </xml><![endif]-->
+  </head>
+  <body>
+    <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" class="wrapper">
+      <tr>
+        <td align="center">
+          <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="680" class="container">
+            <!-- HEADER -->
+            <tr>
+              <td style="padding: 24px 36px; background: linear-gradient(135deg,#04152d 0%,#0a2c57 55%,#0062c8 100%)">
+                <table role="presentation" width="100%">
+                  <tr>
+                    <td align="left">
+                      <img alt="Brasibras" src="https://eafmnsw.stripocdn.email/content/guids/CABINET_ed01e67b798c55d63feb104885c924d29896fe81fa6e7c8b6c2b80bed27f2fc4/images/sfundo_6.png" width="160" style="display: block; border: 0">
+                    </td>
+                    <td align="right" style="color: #ffffff; font-size: 18px; font-weight: bold">
+                      Lançamento BRV-1400/VAE
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+            <!-- HERO -->
+            <tr>
+              <td>
+                <img alt="Equipamento Brasibras" src="https://eafmnsw.stripocdn.email/content/guids/CABINET_ed01e67b798c55d63feb104885c924d29896fe81fa6e7c8b6c2b80bed27f2fc4/images/65b46e7781bf4e4ca78c21c104a1b888.JPG" width="680" style="width: 100%; max-width: 680px; display: block; border: 0">
+              </td>
+            </tr>
+            <!-- TEXTO -->
+            <tr>
+              <td esd-text="true" class="esd-text" style="padding: 40px">
+                <p style="letter-spacing: 1.5px; margin-bottom: 14px; color: #0062c8; font-size: 12px; font-weight: bold; text-transform: uppercase">
+                  Robustez • Tecnologia • Performance
+                </p>
+                <h1 style="margin-top: 0; font-size: 28px; color: #0a1f38">
+                  Lançamento de Máquina de Jateamento Automático em Vidros!
+                </h1>
+                <p class="text" style="text-align: justify">
+                  A
+                  <strong>
+                    Brasibras
+                  </strong>
+                  desenvolve soluções industriais de jateamento que unem
+                  <strong>
+                    precisão, robustez e produtividade
+                  </strong>
+                  para linhas de processamento de vidro.
+                </p>
+                <p class="text" style="text-align: justify">
+                  Nossa linha de máquinas automáticas foi projetada para entregar
+                  <strong>
+                    jateamento uniforme, alto desempenho operacional e máxima confiabilidade
+                  </strong>
+                  , mesmo em regimes intensivos de produção. Além de estar em conformidade com as normas de segurança NR10 e 12.
+                </p>
+              </td>
+            </tr>
+            <!-- DIFERENCIAIS -->
+            <tr>
+              <td style="padding: 0 40px 30px 40px">
+                <div esd-text="true" class="box esd-text">
+                  <h2 style="margin-top: 0; color: #0a1f38">
+                    Capacidade de Processamento
+                  </h2>
+                  <p style="margin: 0; color: #5a6b7f">
+                    Vidros de até
+                    <strong>
+                      1400 mm de altura
+                    </strong>
+                    por
+                    <strong>
+                      3000 mm de comprimento
+                    </strong>
+                    (espessura máxima de 15mm).
+                  </p>
+                </div>
+                <div esd-text="true" class="box esd-text">
+                  <h2 style="margin-top: 0; color: #0a1f38">
+                    Alta Produtividade
+                  </h2>
+                  <p style="margin: 0; color: #5a6b7f">
+                    Equipamento projetado para
+                    <strong>
+                      maximizar eficiência
+                    </strong>
+                    em linhas industriais, com capacidade de produção elevada.
+                  </p>
+                </div>
+                <div esd-text="true" class="box esd-text">
+                  <h2 style="margin-top: 0; color: #0a1f38">
+                    Acabamento Uniforme
+                  </h2>
+                  <p style="margin: 0; color: #5a6b7f">
+                    Jateamento realizado por meio de duas pistolas especiais garantindo
+                    <strong>
+                      100% de cobertura da superfície.
+                    </strong>
+                  </p>
+                </div>
+              </td>
+            </tr>
+            <!-- CTA -->
+            <tr>
+              <td style="padding: 0 40px 40px 40px">
+                <table role="presentation" width="100%" class="cta">
+                  <tr>
+                    <td esd-text="true" class="esd-text">
+                      <a name="https%3A%2F%2Fapi.whatsapp.com%2Fsend%3Fphone%3D551129141840%26text%3DOl%25C3%25A1%252C%2520gostaria%2520de%2520saber%2520mais%2520sobre%2520a%2520nova%2520m%25C3%25A1quina%2520BRV-1400%2FVAE!%2520" class="esd-anchor"></a>
+                      <h2 style="color: #ffffff; margin-top: 0">
+                        Pronto para modernizar sua operação?
+                      </h2>
+                      <p style="color: #d7e4f3; font-size: 15px; line-height: 1.6">
+                        Entre em contato com a Brasibras e receba um atendimento especializado para entender a melhor solução para sua empresa.
+                      </p>
+                      <a href="https://linktr.ee/BRASIBRAS?lt_utm_source=lt_share_link#405572845" target="_blank" class="btn" style="font-size: 18px">
+                        Falar com um especialista
+                      </a>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+            <!-- GALERIA DE IMAGENS -->
+            <tr>
+              <td style="padding: 0 40px 40px 40px">
+                <p esd-text="true" class="esd-text" style="font-size: 20px; font-weight: bold; color: #0a1f38; margin-bottom: 20px; text-align: center">
+                  Aplicações da máquina
+                </p>
+                <table role="presentation" width="100%">
+                  <tr>
+                    <td align="center" width="33%">
+                      <img alt="Aplicação 1" src="https://eafmnsw.stripocdn.email/content/guids/CABINET_25fd5087deec8b87affcd8ff7736c2ea1eda2b518b1f651a186125a1314e9a96/images/4ad23e0dd3f14746a1270a82591a1e37.JPG" width="180" style="width: 100%; max-width: 180px; border-radius: 10px; display: block; border: 0">
+                    </td>
+                    <td align="center" width="33%" style="padding: 0 10px">
+                      <img alt="Aplicação 2" src="https://eafmnsw.stripocdn.email/content/guids/CABINET_25fd5087deec8b87affcd8ff7736c2ea1eda2b518b1f651a186125a1314e9a96/images/captura_de_tela_20260312_as_223152.png" width="180" style="width: 100%; max-width: 180px; border-radius: 10px; display: block; border: 0">
+                    </td>
+                    <td align="center" width="33%">
+                      <img alt="Aplicação 3" src="https://eafmnsw.stripocdn.email/content/guids/CABINET_25fd5087deec8b87affcd8ff7736c2ea1eda2b518b1f651a186125a1314e9a96/images/c34c276725e042268675f22b72d66e82.JPG" width="180" style="width: 100%; max-width: 180px; border-radius: 10px; display: block; border: 0">
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+            <!-- RODAPÉ -->
+            <tr>
+              <td esd-text="true" class="esd-text" style="padding: 26px 40px; background: #f4f7fa; border-top: 1px solid #e1e8f0">
+                <p style="font-size: 14px; color: #0a1f38; font-weight: bold; margin: 0 0 8px 0; text-align: center">
+                  Brasibras
+                </p>
+                <p style="text-align: center">
+                </p>
+                <p style="color: #6b7b8c; margin: 0 0 6px 0; font-size: 13px; text-align: center">
+                </p>
+                <p style="font-size: 13px; text-align: center">
+                  Enviado por BRASIBRAS INDUSTRIA DE EQUIPAMENTOS LTDA
+                  <br>
+                  Av. Presidente Wilson, 2425 - 03107-001 - São Paulo, SP, Brasil
+                  <br>
+                  Caso não queira mais receber estes e-mails,&nbsp;&nbsp;
+                  <a href="https://app.rdstation.email/descadastrar/*UUID*" target="_blank">
+                    cancele sua inscrição
+                  </a>
+                  .
+                </p>
+                <p style="font-size: 12px; color: #8a97a6; margin: 0; text-align: center">
+                  Site: www.brasibras.com.br | WhatsApp: (11) 2914-1840
+                </p>
+              </td>
+            </tr>
+            <tr>
+              <td align="center" class="esd-block-social es-p10b es-p10t" style="font-size: 0">
+                <table cellpadding="0" cellspacing="0" class="es-table-not-adapt es-social">
+                  <tbody>
+                    <tr>
+                      <td align="center" valign="top" class="es-p10r">
+                        <a target="_blank" href="https://www.instagram.com/brasibrasindustria/">
+                          <img title="Instagram" src="https://eafmnsw.stripocdn.email/content/assets/img/social-icons/logo-black/instagram-logo-black.png" alt="Ig" width="32" height="32">
+                        </a>
+                      </td>
+                      <td align="center" valign="top" class="es-p10r">
+                        <a target="_blank" href="https://brasibras.com.br/:/">
+                          <img title="Website" src="https://eafmnsw.stripocdn.email/content/assets/img/other-icons/logo-black/link-logo-black.png" alt="Website" width="32" height="32">
+                        </a>
+                      </td>
+                      <td align="center" valign="top" class="es-p10r">
+                        <a target="_blank" href="https://tr.ee/R1kYdcH8KG">
+                          <img title="Whatsapp" src="https://eafmnsw.stripocdn.email/content/assets/img/messenger-icons/logo-black/whatsapp-logo-black.png" alt="Whatsapp" width="32" height="32">
+                        </a>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>
